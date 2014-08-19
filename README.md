@@ -44,3 +44,4 @@ Released under the GNU General Public License version 3.
 [Top Eleven]: http://www.topeleven.com "Top Eleven Website"
 [python]: https://www.python.org/downloads "Python Downloads"
 [rules]: http://wiki.topeleven.com/Squad#Formations
+
