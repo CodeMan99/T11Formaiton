@@ -115,6 +115,9 @@ class Formation:
         rule_count += 1
         rules_passed += 0 < sum(1 for r in self if r[4]) < 3 #one or two left side players
         
+        rule_count += 1
+        rules_passed += sum(r._player_count for r in self[2:]) >= 4 #at least 4 players in opponents half
+        
         return rule_count == rules_passed
 
     class Row:
