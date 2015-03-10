@@ -1,3 +1,8 @@
+#Project Indefinitely Halted#
+
+This project has been indefinitely halted because I no longer play this game.
+Feel free to fork it and build on the idea that was started here.
+
 T11Formaiton
 ============
 
